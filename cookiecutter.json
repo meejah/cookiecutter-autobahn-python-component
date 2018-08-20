@@ -1,7 +1,4 @@
 {
-    "service_title": "Microservice 1 (AutobahnPython based)",
-    "service_name": "microservice_1",
-
     "architecture": ["amd64", "armhf", "aarch64"],
     "runtime": ["cpy3", "cpy2", "pypy3", "pypy2"],
     "framework": ["twisted", "asyncio"],
